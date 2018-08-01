@@ -1,0 +1,15 @@
+.education {
+  color: blue;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.experience {
+  color: red;
+  font-family: cursive;
+}
+
+.skills {
+  color: hotpink;
+  font-size: larger;
+}
